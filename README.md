@@ -4,6 +4,7 @@ analysing pdf file containing tables , images and text
 input file here we used is latest quartely results of persistent systems
 
 multimodal LLM used here is LLava:13b
+embedding model from ollama : mxbai-embed-large
 
 references:  https://blog.langchain.dev/semi-structured-multi-modal-rag/
 
