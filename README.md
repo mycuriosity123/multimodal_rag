@@ -11,4 +11,4 @@ cookbook : https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_
 
 persistentsystems quartely results: https://www.bseindia.com/xml-data/corpfiling/AttachHis/f3835e32-ee21-4495-a679-666c454aa2fc.pdf
 
-youtube ref: sunny savita multimodal playlist
+youtube ref: https://www.youtube.com/playlist?list=PLQxDHpeGU14D6dm0rmAXhdLeLYlX2zk7p
